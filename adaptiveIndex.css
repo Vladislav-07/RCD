@@ -1,0 +1,315 @@
+@media screen and (max-width: 900px) {
+  
+  .menu li {
+    width: 135px;
+  }
+
+  .menu a {
+    height: 63px;
+  }
+
+  .menu ul .li-1 {
+    margin-top: -64px;
+    margin-left: -65px;
+  }
+  
+  .menu ul .li-2 {
+    margin-top: -63px;
+    margin-left: 70px;
+  }
+  
+  .menu ul .li-3 {
+    margin-top: -63px;
+    margin-left: 205px;
+  }
+
+  .gaz-volga-31105 {
+    background-position-y: -35px;
+  }
+
+  .gaz-volga31111 {
+    background-position-y: -50px;
+  }
+
+  .vaz-granta-liftbek {
+    background-position-y: -50px;
+  } 
+
+  .vaz-granta {
+    background-position-y: -5px;
+  }
+
+  .vaz-kalina-yniversal {
+    background-position-y: -7px;
+  } 
+
+  .volga2412 {
+    background-position-y: -65px;
+  }
+
+  .volga2402 {
+    background-position-y: -13px;
+  }
+
+  .vaz-21099-cupe {
+    background-position-y: -60px;
+  }
+
+}
+
+@media screen and (max-width: 650px) {
+  
+  .menu li {
+    width: 100px;
+  }
+
+  .menu a {
+    height: 50px;
+  }
+
+  .menu ul .li-1 {
+    margin-top: -50px;
+    margin-left: -100px;
+  }
+  
+  .menu ul .li-2 {
+    margin-top: -50px;
+    margin-left: 0px;
+  }
+  
+  .menu ul .li-3 {
+    margin-top: -50px;
+    margin-left: 100px;
+  }
+
+  .vaz-2101 {
+    background-position-y: -5px;
+  }
+
+  .vaz-2102 {
+    background-position-y: -5px;
+  }
+
+  .vaz-2103 {
+    background-position-y: -5px;
+  }
+
+  .vaz-2106 {
+    background-position-y: -5px;
+  }
+
+  .vaz-2108 {
+    background-position-y: -5px;
+  }
+
+  .vaz-2109 {
+    background-position-y: -5px;
+  }
+
+  .vaz-21099 {
+    background-position-y: -5px;
+  }
+
+  .vaz-21099-cupe {
+    background-position-y: -43px;
+  }
+
+  .vaz-1111-oka {
+    background-position-y: -5px;
+  }
+
+  .moskvich412 {
+    background-position-y: -20px;
+  }
+
+  .zaz-965 {
+    background-position-y: -5px;
+  }
+
+  .zaz-968 {
+    background-position-y: -5px;
+  }
+
+  .volga2402 {
+    background-position-y: -5px;
+  }
+
+  .volga2412 {
+    background-position-y: -45px;
+  }
+
+  .vaz-kalina-hetchbeck {
+    background-position-y: -5px;
+  }
+
+  .vaz-kalina-yniversal {
+    background-position-y: -5px;
+  }
+
+  .vaz-granta-liftbek {
+    background-position-y: -35px;
+  }
+
+  .vaz-priora-hetchbeck-2172 {
+    background-position-y: -25px;
+  }
+
+  .vaz-2121 {
+    background-position-y: -5px;
+  }
+
+  .gaz-volga31111 {
+    background-position-y: -35px;
+  }
+
+  .gaz-volga-31105 {
+    background-position-y: -25px;
+  }
+
+}
+
+@media screen and (max-width: 520px) {
+  
+  .menu li {
+    width: 70px;
+  }
+
+  .menu a {
+    height: 50px;
+  }
+
+  .menu ul .li-1 {
+    margin-top: -50px;
+    margin-left: -130px;
+  }
+  
+  .menu ul .li-2 {
+    margin-top: -50px;
+    margin-left: -60px;
+  }
+  
+  .menu ul .li-3 {
+    margin-top: -50px;
+    margin-left: 10px;
+  }
+
+  .vaz-2101 {
+    background-position-y: 0px;
+  }
+
+  .vaz-2102 {
+    background-position-y: 0px;
+  }
+
+  .vaz-2103 {
+    background-position-y: 0px;
+  }
+
+  .vaz-2104-cupe {
+    background-position-x: -12px;
+  }
+
+  .vaz-2106 {
+    background-position-y: 0px;
+  }
+
+  .vaz-2108 {
+    background-position-y: 0px;
+  }
+
+  .vaz-2109 {
+    background-position-y: 0px;
+  }
+
+  .vaz-21099 {
+    background-position-y: 0px;
+  }
+
+  .vaz-21099-cupe {
+    background-position-y: -20px;
+  }
+
+  .vaz-1111-oka {
+    background-position-y: 0px;
+    background-position-x: -15px;
+  }
+
+  .moskvich412 {
+    background-position-y: 0px;
+  }
+
+  .moskvich412-rest {
+    background-position-y: 0px;
+  }
+
+  .zaz-965 {
+    background-position-y: 0px;
+  }
+
+  .zaz-968 {
+    background-position-y: 0px;
+  }
+
+  .volga2402 {
+    background-position-y: 0px;
+  }
+
+  .volga2412 {
+    background-position-y: -20px;
+  }
+
+  .volga2410 {
+    background-position-x: -15px;
+  }
+
+  .zil41052 {
+    background-position-x: -15px;
+  }
+
+  .vaz-kalina-hetchbeck {
+    background-position-y: -0px;
+    background-position-x: -15px;
+  }
+
+  .vaz-kalina-yniversal {
+    background-position-y: 0px;
+  }
+
+  .vaz-granta {
+    background-position-y: 0px;
+  }
+
+  .vaz-granta-liftbek {
+    background-position-y: -20px;
+  }
+
+  .vaz-priora-hetchbeck-2172 {
+    background-position-y: -15px;
+  }
+
+  .vaz-2121 {
+    background-position-y: 0px;
+  }
+
+  .iz-oda2126 {
+    background-position-x: -10px;
+  }
+
+  .gaz-volga31111 {
+    background-position-y: -20px;
+  }
+
+  .gaz-volga-31105 {
+    background-position-y: -0px;
+  }
+
+}
+
+@media screen and (max-width: 350px) {
+
+  .menu {
+    margin-left: -30px;
+    margin-top: 20px;
+  }
+
+}

@@ -1,0 +1,393 @@
+body, html {
+  width: 100%;
+}
+
+body {
+  background-attachment: fixed;
+  background-position-y: -125px;
+  overflow-x: hidden;
+  background-color: #142f4c;
+  background-image: url(img/bg.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu {
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 5px;
+  margin-top: 20px;
+  flex-wrap: wrap;
+}
+
+.menu li {
+  width: 200px;
+  list-style: none;
+  background: #383c54;
+  position: relative;
+}
+
+.menu a {
+  color: #fff;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  padding: 0 10px;
+  height: 100px;
+  line-height: 40px;
+  transition: all .5s;
+}
+
+.menu a:hover {
+  background-color: #808291;
+
+}
+
+.menu ul {
+  position: absolute;
+  left: 0;
+  top: 100%;
+  display: none;
+  padding: 0;
+
+  margin-left: 200px;
+}
+
+.menu ul .li-1 {
+  margin-top: -100px;
+  margin-left: 0px;
+}
+
+.menu ul .li-2 {
+  margin-top: -100px;
+  margin-left: 200px;
+}
+
+.menu ul .li-3 {
+  margin-top: -100px;
+  margin-left: 400px;
+}
+
+.menu li:hover ul {
+  display: block;
+}
+
+
+.vaz-2101 {
+  background-image: url(./img/car/vaz-2101.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -12px;
+}
+
+.vaz-2102 {
+  background-image: url(./img/car/vaz-2102.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -12px;
+}
+
+.vaz-2103 {
+  background-image: url(./img/car/vaz-2103.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -12px;
+}
+
+.vaz-2104-cupe {
+  background-image: url(./img/car/vaz-2104-cupe.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.vaz-2104 {
+  background-image: url(./img/car/vaz2104.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.vaz-2105 {
+  background-image: url(./img/car/vaz-2105.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.vaz-2106 {
+  background-image: url(./img/car/vaz-2106.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -12px;
+}
+
+.vaz-2107 {
+  background-image: url(./img/car/vaz-2107.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.vaz-2108 {
+  background-image: url(./img/car/vaz-2108.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -12px;
+} 
+
+.vaz-2109 {
+  background-image: url(./img/car/vaz-2109.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -12px;
+} 
+
+.vaz-21099 {
+  background-image: url(./img/car/vaz-21099.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -12px;
+} 
+
+.vaz-21099-cupe {
+  background-image: url(./img/car/vaz-21099-cupe.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -90px;
+} 
+
+.vaz-niva1600 {
+  background-image: url(./img/car/vaz-niva1600.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+} 
+
+.vaz-1111-oka {
+  background-image: url(./img/car/vaz-1111-oka.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -12px;
+} 
+
+.moskvich412 {
+  background-image: url(./img/car/moskvich412-2.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -10px;
+} 
+
+.moskvich412-rest {
+  background-image: url(./img/car/moskvich412-rest.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -10px;
+} 
+
+.zaz-965 {
+  background-image: url(./img/car/zaz-965.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -10px;
+} 
+
+.zaz-968 {
+  background-image: url(./img/car/zaz-968.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -10px;
+} 
+
+.volga24 {
+  background-image: url(./img/car/volga24.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+} 
+
+.volga2402 {
+  background-image: url(./img/car/volga2402.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -10px;
+} 
+
+.volga2412 {
+  background-image: url(./img/car/volga2412.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -90px;
+} 
+
+.volga3102 {
+  background-image: url(./img/car/volga3102-2.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -10px;
+} 
+
+.volga2410 {
+  background-image: url(./img/car/volga2410-2.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -50px;
+} 
+
+.zil41052 {
+  background-image: url(./img/car/zil41052-2.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -12px;
+} 
+
+.vaz2110 {
+  background-image: url(./img/car/vaz2110.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+} 
+
+.vaz2111 {
+  background-image: url(./img/car/vaz2111.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+} 
+
+.vaz2112 {
+  background-image: url(./img/car/vaz2112.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+} 
+
+.vaz2114 {
+  background-image: url(./img/car/vaz2114.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+} 
+
+.vaz-2113 {
+  background-image: url(./img/car/vaz-2113.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -95px;
+} 
+
+.vaz2115 {
+  background-image: url(./img/car/vaz2115.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+} 
+
+.vaz-priora {
+  background-image: url(./img/car/vaz-priora-2170.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+} 
+
+.vaz-kalina-hetchbeck {
+  background-image: url(./img/car/vaz-kalina-hetchbeck.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -12px;
+} 
+
+.priora-hetchbeck {
+  background-image: url(./img/car/priora-hetchbek.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -12px;
+}
+
+.vaz-kalina {
+  background-image: url(./img/car/vaz-kalina.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -12px;
+} 
+
+.vaz-kalina-yniversal {
+  background-image: url(./img/car/vaz-kalina-yniversal.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -12px;
+} 
+
+.vaz-granta {
+  background-image: url(./img/car/vaz-granta.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -12px;
+} 
+
+.vaz-granta-liftbek {
+  background-image: url(./img/car/vaz-granta-liftbek.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -70px;
+} 
+
+.lada-vesta {
+  background-image: url(./img/car/lada-vesta.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -12px;
+} 
+
+.vaz-priora-2170 {
+  background-image: url(./img/car/vaz-priora-2170.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+} 
+
+.vaz-priora-hetchbeck-2172 {
+  background-image: url(./img/car/vaz-priora-hetchbeck-2172.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -40px;
+} 
+
+.vaz-2121 {
+  background-image: url(./img/car/vaz-2121.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -10px;
+}
+
+.iz-oda2126 {
+  background-image: url(./img/car/iz-oda2126.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.gaz-volga31111 {
+  background-image: url(./img/car/gaz-volga31111.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -70px;
+}
+
+.gaz-volga-31105 {
+  background-image: url(./img/car/gaz-volga-31105.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -50px;
+}
+
+.menu-50 {
+  margin-bottom: 100px;
+}
+
+@media (max-width: 860px) {
+  body {
+    background-image: url(img/bg-for-phone.jpg);
+    background-size: contain
+  }
+}
+
+
+/* ***********   *********** */
+
+.prochee {
+  padding: 50px;
+  width: 100px;
+  height: 100px;
+  margin-left: 49px;
+  background-image: url(./img/pprochie.jpg);
+  background-size: cover;
+  background-position: center center;
+}
